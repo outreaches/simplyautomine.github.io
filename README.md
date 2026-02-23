@@ -1,6 +1,4 @@
-# Opal v2
+#SimplyAutomine
 
-Garbage and overpriced hypixel client for fabric 1.21.10, marketed for $30
-Cracked and open source
+Lightweight and effcient autominer, no need for an autoclicker.
 
-https://github.com/outreaches/opal/releases/download/Release/opal-v0.1.jar
